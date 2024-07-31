@@ -1,0 +1,4 @@
+repository "Game@VK14@cloud"
+  path "/"
+    br "/main"
+    co "/main"

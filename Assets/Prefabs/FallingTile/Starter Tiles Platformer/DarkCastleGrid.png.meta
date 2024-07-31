@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: 42ca6f3af6f762d4681c76024244bd22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkCastleGrid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d83a3bdbb77d348bd09e4e6662bfc0
+      internalID: 188122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d74d0ef0d635eb44808d12efec350f1
+      internalID: 1872446800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627294f40a8ddd44acb96b63f71519c
+      internalID: -855664509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023061cdc73c67246994253c88cd619d
+      internalID: -1051908614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b7c2bd3665a14cab3dc9ce8cb5ad4
+      internalID: -622817615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977b5ce58bed2ed41a1c787ffdd4c7a6
+      internalID: -32152409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5c2f06b3be1084f845256a1dbe9ba6
+      internalID: -1535918878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_7
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f7b3d906e566848b0a7d2c3c078264
+      internalID: 901150114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aa61f1a39968543ba7c7afab590cd1
+      internalID: 372445381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8112658742d59af46b1cd88b53548b95
+      internalID: -1464668121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037254210012e8c438941053c0f90aa9
+      internalID: 201599003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dfd915d34ce0d4798c37179776dfe9
+      internalID: 229889317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4dbb203322f724e8ce87a8b9b7a880
+      internalID: 1789002860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4156b42a48033a1438e8b02f7a341d0e
+      internalID: 850681600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_14
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5268f8b7cf014da47c2e5d9293016
+      internalID: -321852297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3f97fa1ec42e43a4400ae52c32189
+      internalID: 1986347389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2aab3fea209664d8ecf2631a36e504
+      internalID: -1252659345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7209644301e90a40a6863af697d9e0a
+      internalID: 1343259823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9fbbd9fa7b5d44facb2575115713eb
+      internalID: -1109718682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17.8
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901d580449c478541b4bbc48b749226d
+      internalID: 1445237079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92817ce750023449a91c4105cef4d59
+      internalID: 799386465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a5d86ae464274e97468a32b620c74
+      internalID: -1567699702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79552cde394ecaa4c80e1d1a6e70e744
+      internalID: -698507486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ea06d3fd6b33f478af6fd24107a9cd
+      internalID: 1042717311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkCastleGrid_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0.79999924
+        width: 17.2
+        height: 17.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c85ff5013e50479167771d03e15d3
+      internalID: 704916846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DarkCastleGrid_0: 188122959
+      DarkCastleGrid_1: 1872446800
+      DarkCastleGrid_10: 201599003
+      DarkCastleGrid_11: 229889317
+      DarkCastleGrid_12: 1789002860
+      DarkCastleGrid_13: 850681600
+      DarkCastleGrid_14: -321852297
+      DarkCastleGrid_15: 1986347389
+      DarkCastleGrid_16: -1252659345
+      DarkCastleGrid_17: 1343259823
+      DarkCastleGrid_18: -1109718682
+      DarkCastleGrid_19: 1445237079
+      DarkCastleGrid_2: -855664509
+      DarkCastleGrid_20: 799386465
+      DarkCastleGrid_21: -1567699702
+      DarkCastleGrid_22: -698507486
+      DarkCastleGrid_23: 1042717311
+      DarkCastleGrid_24: 704916846
+      DarkCastleGrid_3: -1051908614
+      DarkCastleGrid_4: -622817615
+      DarkCastleGrid_5: -32152409
+      DarkCastleGrid_6: -1535918878
+      DarkCastleGrid_7: 901150114
+      DarkCastleGrid_8: 372445381
+      DarkCastleGrid_9: -1464668121
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
